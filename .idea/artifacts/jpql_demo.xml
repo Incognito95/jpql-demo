@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jpql-demo">
+    <output-path>$PROJECT_DIR$/out/artifacts/jpql_demo</output-path>
+    <root id="root" />
+  </artifact>
+</component>
